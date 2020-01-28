@@ -65,6 +65,14 @@ Quick start options:
 
 - [Download from Creative Tim](https://www.creative-tim.com/product/black-dashboard-angular?ref=bda-readme).
 
+
+## To Upload via Github Desktop
+
+1. Save in VS Code
+2. Open Github Desktop
+3. Enter an a required summary of the changes
+4. Click the "Commit to master" button
+
 ## Terminal Commands
 
 1. Install NodeJs from [NodeJs Official Page](https://nodejs.org/en).
